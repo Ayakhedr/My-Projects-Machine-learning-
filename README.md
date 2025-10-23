@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Portfolio
 
 Welcome! I am Aya Khedr, a Data Scientist and Machine Learning enthusiast.  
@@ -53,3 +54,7 @@ This repository contains a collection of my Machine Learning projects, including
 
 - Each project folder (or link) contains the Jupyter Notebook and any necessary CSV datasets.
 - You can clone this repository or access individual projects via the provided links.
+=======
+# My-Projects-Machine-learning-
+Portfolio of my Machine Learning projects with datasets, notebooks, and results.
+>>>>>>> 2909bd54daa12a95b3131c3fe851f1a50b3ac084
